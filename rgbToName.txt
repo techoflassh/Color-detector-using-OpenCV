@@ -1,0 +1,1639 @@
+53, 49, 44 : Acadia
+117, 170, 148 : Acapulco
+192, 232, 213 : Aero Blue
+116, 80, 133 : Affair
+144, 94, 38 : Afghan Tan
+93, 138, 168 : Air Force Blue
+190, 178, 154 : Akaroa
+242, 240, 230 : Alabaster
+225, 218, 203 : Albescent White
+149, 78, 44 : Alert Tan
+240, 248, 255 : Alice Blue
+227, 38, 54 : Alizarin
+31, 106, 125 : Allports
+238, 217, 196 : Almond
+154, 134, 120 : Almond Frost
+173, 138, 59 : Alpine
+205, 198, 197 : Alto
+132, 135, 137 : Aluminium
+229, 43, 80 : Amaranth
+56, 123, 84 : Amazon
+255, 191, 0 : Amber
+138, 125, 114 : Americano
+153, 102, 204 : Amethyst
+149, 135, 156 : Amethyst Smoke
+245, 230, 234 : Amour
+125, 157, 114 : Amulet
+140, 206, 234 : Anakiwa
+108, 70, 31 : Antique Brass
+250, 235, 215 : Antique White
+198, 142, 63 : Anzac
+211, 169, 92 : Apache
+102, 179, 72 : Apple
+169, 82, 73 : Apple Blossom
+222, 234, 220 : Apple Green
+251, 206, 177 : Apricot
+247, 240, 219 : Apricot White
+0, 255, 255 : Aqua
+217, 221, 213 : Aqua Haze
+232, 243, 232 : Aqua Spring
+219, 228, 220 : Aqua Squeeze
+127, 255, 212 : Aquamarine
+39, 74, 93 : Arapawa
+72, 74, 70 : Armadillo
+75, 83, 32 : Army green
+130, 122, 103 : Arrowtown
+59, 68, 75 : Arsenic
+190, 186, 167 : Ash
+123, 160, 91 : Asparagus
+237, 213, 166 : Astra
+55, 111, 137 : Astral
+68, 81, 114 : Astronaut
+33, 69, 89 : Astronaut Blue
+220, 221, 221 : Athens Grey
+213, 203, 178 : Aths Special
+156, 208, 59 : Atlantis
+43, 121, 122 : Atoll
+61, 75, 82 : Atomic
+255, 153, 102 : Atomic Tangerine
+158, 103, 89 : Au Chico
+55, 37, 40 : Aubergine
+113, 47, 44 : Auburn
+239, 248, 170 : Australian Mint
+149, 152, 107 : Avocado
+99, 119, 90 : Axolotl
+249, 192, 196 : Azalea
+41, 52, 50 : Aztec
+240, 255, 255 : Azure
+111, 255, 255 : Baby Blue
+37, 89, 127 : Bahama Blue
+169, 192, 28 : Bahia
+92, 51, 23 : Baker's Chocolate
+132, 156, 169 : Bali Hai
+60, 61, 62 : Baltic Sea
+251, 231, 178 : Banana Mania
+135, 132, 102 : Bandicoot
+210, 198, 31 : Barberry
+182, 147, 92 : Barley Corn
+247, 229, 183 : Barley White
+69, 46, 57 : Barossa
+44, 44, 50 : Bastille
+81, 87, 79 : Battleship Grey
+123, 177, 141 : Bay Leaf
+53, 62, 100 : Bay Of Many
+143, 119, 119 : Bazaar
+235, 185, 179 : Beauty Bush
+146, 111, 91 : Beaver
+233, 215, 171 : Beeswax
+245, 245, 220 : Beige
+134, 210, 193 : Bermuda
+111, 140, 159 : Bermuda Grey
+188, 191, 168 : Beryl Green
+244, 239, 224 : Bianca
+51, 64, 70 : Big Stone
+62, 128, 39 : Bilbao
+174, 153, 210 : Biloba Flower
+63, 55, 38 : Birch
+208, 193, 23 : Bird Flower
+47, 60, 83 : Biscay
+72, 108, 122 : Bismark
+181, 172, 148 : Bison Hide
+255, 228, 196 : Bisque
+61, 43, 31 : Bistre
+136, 137, 108 : Bitter
+210, 219, 50 : Bitter Lemon
+254, 111, 94 : Bittersweet
+231, 210, 200 : Bizarre
+0, 0, 0 : Black
+35, 46, 38 : Black Bean
+44, 50, 39 : Black Forest
+224, 222, 215 : Black Haze
+51, 44, 34 : Black Magic
+56, 55, 64 : Black Marlin
+30, 39, 44 : Black Pearl
+44, 45, 60 : Black Rock
+83, 41, 52 : Black Rose
+36, 37, 43 : Black Russian
+229, 230, 223 : Black Squeeze
+229, 228, 219 : Black White
+67, 24, 47 : Blackberry
+46, 24, 59 : Blackcurrant
+217, 208, 193 : Blanc
+255, 235, 205 : Blanched Almond
+235, 225, 206 : Bleach White
+163, 227, 237 : Blizzard Blue
+223, 177, 182 : Blossom
+0, 0, 255 : Blue
+98, 119, 126 : Blue Bayoux
+153, 153, 204 : Blue Bell
+227, 214, 233 : Blue Chalk
+38, 43, 47 : Blue Charcoal
+64, 143, 144 : Blue Chill
+75, 45, 114 : Blue Diamond
+53, 81, 79 : Blue Dianne
+75, 60, 142 : Blue Gem
+189, 186, 206 : Blue Haze
+0, 98, 111 : Blue Lagoon
+106, 91, 177 : Blue Marguerite
+216, 240, 210 : Blue Romance
+120, 133, 122 : Blue Smoke
+22, 100, 97 : Blue Stone
+138, 43, 226 : Blue Violet
+30, 52, 66 : Blue Whale
+60, 67, 84 : Blue Zodiac
+48, 92, 113 : Blumine
+181, 80, 103 : Blush
+42, 39, 37 : Bokara Grey
+121, 68, 59 : Bole
+174, 174, 173 : Bombay
+223, 215, 210 : Bon Jour
+0, 149, 182 : Bondi Blue
+219, 194, 171 : Bone
+76, 28, 36 : Bordeaux
+76, 61, 78 : Bossanova
+67, 142, 172 : Boston Blue
+146, 172, 180 : Botticelli
+37, 70, 54 : Bottle Green
+124, 129, 124 : Boulder
+167, 129, 153 : Bouquet
+175, 108, 62 : Bourbon
+91, 61, 39 : Bracken
+220, 182, 138 : Brandy
+192, 124, 64 : Brandy Punch
+182, 133, 122 : Brandy Rose
+181, 166, 66 : Brass
+81, 123, 120 : Breaker Bay
+198, 45, 66 : Brick Red
+248, 235, 221 : Bridal Heath
+250, 230, 223 : Bridesmaid
+102, 255, 0 : Bright Green
+87, 89, 93 : Bright Grey
+146, 42, 49 : Bright Red
+236, 189, 44 : Bright Sun
+8, 232, 222 : Bright Turquoise
+255, 85, 163 : Brilliant Rose
+251, 96, 127 : Brink Pink
+0, 66, 37 : British Racing Green
+167, 151, 129 : Bronco
+205, 127, 50 : Bronze
+88, 76, 37 : Bronze Olive
+67, 76, 40 : Bronzetone
+238, 204, 36 : Broom
+165, 42, 42 : Brown
+83, 51, 30 : Brown Bramble
+89, 69, 55 : Brown Derby
+60, 36, 27 : Brown Pod
+230, 242, 234 : Bubbles
+110, 81, 80 : Buccaneer
+165, 168, 143 : Bud
+188, 155, 27 : Buddha Gold
+240, 220, 130 : Buff
+72, 36, 39 : Bulgarian Rose
+117, 68, 43 : Bull Shot
+41, 44, 47 : Bunker
+43, 52, 73 : Bunting
+128, 0, 32 : Burgundy
+222, 184, 135 : Burly Wood
+35, 69, 55 : Burnham
+208, 131, 99 : Burning Sand
+88, 33, 36 : Burnt Crimson
+255, 112, 52 : Burnt Orange
+233, 116, 81 : Burnt Sienna
+138, 51, 36 : Burnt Umber
+218, 148, 41 : Buttercup
+157, 112, 46 : Buttered Rum
+104, 87, 140 : Butterfly Bush
+246, 224, 164 : Buttermilk
+241, 235, 218 : Buttery White
+74, 46, 50 : Cab Sav
+205, 82, 108 : Cabaret
+76, 85, 68 : Cabbage Pont
+91, 111, 85 : Cactus
+95, 158, 160 : Cadet Blue
+152, 73, 97 : Cadillac
+106, 73, 40 : Cafe Royale
+213, 177, 133 : Calico
+233, 140, 58 : California
+61, 113, 136 : Calypso
+32, 105, 55 : Camarone
+128, 58, 75 : Camelot
+204, 164, 131 : Cameo
+79, 77, 50 : Camouflage
+120, 134, 107 : Camouflage Green
+208, 138, 155 : Can Can
+255, 255, 153 : Canary
+142, 81, 100 : Cannon Pink
+78, 85, 82 : Cape Cod
+254, 224, 165 : Cape Honey
+117, 72, 47 : Cape Palliser
+175, 193, 130 : Caper
+89, 39, 32 : Caput Mortuum
+255, 213, 154 : Caramel
+235, 229, 213 : Cararra
+27, 52, 39 : Cardin Green
+196, 30, 58 : Cardinal
+201, 154, 160 : Careys Pink
+0, 204, 153 : Caribbean Green
+230, 128, 149 : Carissma
+245, 249, 203 : Carla
+150, 0, 24 : Carmine
+91, 58, 36 : Carnaby Tan
+255, 166, 201 : Carnation Pink
+248, 219, 224 : Carousel Pink
+237, 145, 33 : Carrot Orange
+240, 178, 83 : Casablanca
+63, 84, 90 : Casal
+140, 168, 160 : Cascade
+209, 179, 153 : Cashmere
+170, 181, 184 : Casper
+68, 35, 47 : Castro
+39, 60, 90 : Catalina Blue
+224, 228, 220 : Catskill White
+224, 184, 177 : Cavern Pink
+146, 113, 167 : Ce Soir
+70, 52, 48 : Cedar
+172, 225, 175 : Celadon
+180, 192, 76 : Celery
+210, 210, 192 : Celeste
+58, 78, 95 : Cello
+43, 63, 54 : Celtic
+133, 113, 88 : Cement
+222, 49, 99 : Cerise
+0, 123, 167 : Cerulean
+42, 82, 190 : Cerulean Blue
+253, 233, 224 : Chablis
+90, 110, 65 : Chalet Green
+223, 194, 129 : Chalky
+71, 88, 119 : Chambray
+232, 205, 154 : Chamois
+238, 217, 182 : Champagne
+237, 184, 199 : Chantilly
+57, 64, 67 : Charade
+70, 70, 70 : Charcoal
+248, 234, 223 : Chardon
+255, 200, 120 : Chardonnay
+164, 220, 230 : Charlotte
+208, 116, 139 : Charm
+127, 255, 0 : Chartreuse
+223, 255, 0 : Chartreuse Yellow
+65, 159, 89 : Chateau Green
+179, 171, 182 : Chatelle
+44, 89, 113 : Chathams Blue
+136, 169, 91 : Chelsea Cucumber
+149, 83, 47 : Chelsea Gem
+222, 195, 113 : Chenin
+245, 205, 130 : Cherokee
+55, 45, 82 : Cherry Pie
+245, 215, 220 : Cherub
+185, 78, 72 : Chestnut
+102, 111, 180 : Chetwode Blue
+91, 93, 86 : Chicago
+240, 245, 187 : Chiffon
+208, 94, 52 : Chilean Fire
+249, 247, 222 : Chilean Heath
+251, 243, 211 : China Ivory
+184, 173, 138 : Chino
+157, 211, 168 : Chinook
+210, 105, 30 : Chocolate
+56, 33, 97 : Christalle
+113, 169, 29 : Christi
+191, 101, 46 : Christine
+202, 199, 183 : Chrome White
+125, 78, 56 : Cigar
+36, 42, 46 : Cinder
+251, 215, 204 : Cinderella
+227, 66, 52 : Cinnabar
+93, 59, 46 : Cioccolato
+142, 154, 33 : Citron
+159, 183, 10 : Citrus
+210, 179, 169 : Clam Shell
+110, 34, 51 : Claret
+244, 200, 219 : Classic Rose
+137, 126, 89 : Clay Creek
+223, 239, 234 : Clear Day
+70, 54, 35 : Clinker
+194, 188, 177 : Cloud
+53, 62, 79 : Cloud Burst
+176, 169, 159 : Cloudy
+71, 86, 47 : Clover
+0, 71, 171 : Cobalt
+79, 56, 53 : Cocoa Bean
+53, 40, 30 : Cocoa Brown
+225, 218, 187 : Coconut Cream
+45, 48, 50 : Cod Grey
+114, 103, 81 : Coffee
+54, 45, 38 : Coffee Bean
+154, 70, 61 : Cognac
+60, 47, 35 : Cola
+157, 138, 191 : Cold Purple
+202, 181, 178 : Cold Turkey
+155, 221, 255 : Columbia Blue
+99, 99, 115 : Comet
+76, 120, 92 : Como
+160, 177, 174 : Conch
+130, 127, 121 : Concord
+210, 209, 205 : Concrete
+221, 203, 70 : Confetti
+101, 77, 73 : Congo Brown
+177, 221, 82 : Conifer
+193, 111, 104 : Contessa
+218, 138, 103 : Copper
+119, 66, 44 : Copper Canyon
+153, 102, 102 : Copper Rose
+149, 82, 76 : Copper Rust
+255, 127, 80 : Coral
+245, 208, 201 : Coral Candy
+255, 64, 64 : Coral Red
+171, 110, 103 : Coral Tree
+64, 77, 73 : Corduroy
+187, 181, 141 : Coriander
+90, 76, 66 : Cork
+251, 236, 93 : Corn
+248, 243, 196 : Corn Field
+66, 66, 111 : Corn Flower Blue
+141, 112, 42 : Corn Harvest
+255, 248, 220 : Corn Silk
+147, 204, 234 : Cornflower
+100, 149, 237 : Cornflower Blue
+233, 186, 129 : Corvette
+121, 77, 96 : Cosmic
+225, 248, 231 : Cosmic Latte
+252, 213, 207 : Cosmos
+98, 93, 42 : Costa Del Sol
+255, 183, 213 : Cotton Candy
+191, 186, 175 : Cotton Seed
+27, 75, 53 : County Green
+68, 55, 54 : Cowboy
+135, 56, 47 : Crab Apple
+166, 86, 72 : Crail
+219, 80, 121 : Cranberry
+77, 62, 60 : Crater Brown
+255, 253, 208 : Cream
+255, 227, 155 : Cream Brulee
+238, 192, 81 : Cream Can
+57, 50, 39 : Creole
+119, 113, 43 : Crete
+220, 20, 60 : Crimson
+112, 105, 80 : Crocodile
+118, 60, 51 : Crown Of Thorns
+180, 226, 213 : Cruise
+22, 91, 49 : Crusoe
+243, 134, 83 : Crusta
+120, 68, 48 : Cumin
+245, 244, 193 : Cumulus
+245, 178, 197 : Cupid
+61, 133, 184 : Curious Blue
+92, 129, 115 : Cutty Sark
+15, 70, 69 : Cyprus
+237, 210, 164 : Dairy Cream
+91, 62, 144 : Daisy Bush
+102, 74, 45 : Dallas
+254, 216, 93 : Dandelion
+91, 137, 192 : Danube
+0, 0, 139 : Dark Blue
+101, 67, 33 : Dark Brown
+8, 69, 126 : Dark Cerulean
+152, 105, 96 : Dark Chestnut
+205, 91, 69 : Dark Coral
+0, 139, 139 : Dark Cyan
+184, 134, 11 : Dark Goldenrod
+169, 169, 169 : Dark Gray
+1, 50, 32 : Dark Green
+74, 118, 110 : Dark Green Copper
+189, 183, 107 : Dark Khaki
+139, 0, 139 : Dark Magenta
+85, 107, 47 : Dark Olive Green
+255, 140, 0 : Dark Orange
+153, 50, 204 : Dark Orchid
+3, 192, 60 : Dark Pastel Green
+231, 84, 128 : Dark Pink
+135, 31, 120 : Dark Purple
+139, 0, 0 : Dark Red
+69, 54, 43 : Dark Rum
+233, 150, 122 : Dark Salmon
+143, 188, 143 : Dark Sea Green
+70, 83, 82 : Dark Slate
+72, 61, 139 : Dark Slate Blue
+47, 79, 79 : Dark Slate Grey
+23, 114, 69 : Dark Spring Green
+151, 105, 79 : Dark Tan
+255, 168, 18 : Dark Tangerine
+0, 206, 209 : Dark Turquoise
+148, 0, 211 : Dark Violet
+133, 94, 66 : Dark Wood
+120, 136, 120 : Davy's Grey
+159, 157, 145 : Dawn
+230, 214, 205 : Dawn Pink
+133, 202, 135 : De York
+204, 207, 130 : Deco
+227, 111, 138 : Deep Blush
+81, 65, 45 : Deep Bronze
+218, 50, 135 : Deep Cerise
+25, 57, 37 : Deep Fir
+52, 52, 103 : Deep Koamaru
+153, 85, 187 : Deep Lilac
+204, 0, 204 : Deep Magenta
+255, 20, 147 : Deep Pink
+22, 126, 101 : Deep Sea
+0, 191, 255 : Deep Sky Blue
+25, 68, 60 : Deep Teal
+181, 153, 142 : Del Rio
+72, 101, 49 : Dell
+153, 155, 149 : Delta
+130, 114, 164 : Deluge
+21, 96, 189 : Denim
+249, 228, 198 : Derby
+161, 95, 59 : Desert
+237, 201, 175 : Desert Sand
+237, 231, 224 : Desert Storm
+231, 242, 233 : Dew
+50, 44, 43 : Diesel
+105, 105, 105 : Dim Gray
+96, 124, 71 : Dingley
+137, 45, 79 : Disco
+205, 132, 49 : Dixie
+30, 144, 255 : Dodger Blue
+245, 241, 113 : Dolly
+106, 104, 115 : Dolphin
+108, 91, 76 : Domino
+90, 79, 81 : Don Juan
+129, 110, 92 : Donkey Brown
+110, 95, 86 : Dorado
+228, 207, 153 : Double Colonial White
+233, 220, 190 : Double Pearl Lusta
+210, 195, 163 : Double Spanish White
+119, 118, 114 : Dove Grey
+111, 210, 190 : Downy
+251, 235, 155 : Drover
+81, 79, 74 : Dune
+229, 202, 192 : Dust Storm
+172, 155, 155 : Dusty Grey
+240, 223, 187 : Dutch White
+176, 172, 148 : Eagle
+184, 167, 34 : Earls Green
+251, 242, 219 : Early Dawn
+71, 82, 110 : East Bay
+170, 140, 188 : East Side
+0, 135, 159 : Eastern Blue
+230, 216, 212 : Ebb
+49, 51, 55 : Ebony
+50, 52, 56 : Ebony Clay
+164, 175, 205 : Echo Blue
+63, 57, 57 : Eclipse
+194, 178, 128 : Ecru
+214, 209, 192 : Ecru White
+201, 97, 56 : Ecstasy
+38, 98, 85 : Eden
+193, 216, 197 : Edgewater
+151, 164, 154 : Edward
+249, 228, 197 : Egg Sour
+153, 0, 102 : Eggplant
+16, 52, 166 : Egyptian Blue
+57, 57, 44 : El Paso
+143, 78, 69 : El Salva
+125, 249, 255 : Electric Blue
+102, 0, 255 : Electric Indigo
+204, 255, 0 : Electric Lime
+191, 0, 255 : Electric Purple
+36, 54, 64 : Elephant
+27, 138, 107 : Elf Green
+41, 123, 118 : Elm
+80, 200, 120 : Emerald
+110, 57, 116 : Eminence
+80, 73, 74 : Emperor
+124, 113, 115 : Empress
+41, 89, 139 : Endeavour
+245, 215, 82 : Energy Yellow
+39, 66, 52 : English Holly
+139, 165, 143 : Envy
+218, 177, 96 : Equator
+78, 49, 45 : Espresso
+45, 47, 40 : Eternity
+50, 151, 96 : Eucalyptus
+205, 165, 156 : Eunry
+38, 96, 79 : Evening Sea
+38, 67, 52 : Everglade
+243, 229, 220 : Fair Pink
+110, 90, 91 : Falcon
+193, 154, 107 : Fallow
+128, 24, 24 : Falu Red
+242, 230, 221 : Fantasy
+98, 86, 101 : Fedora
+165, 215, 133 : Feijoa
+77, 93, 83 : Feldgrau
+209, 146, 117 : Feldspar
+99, 183, 108 : Fern
+79, 121, 66 : Fern Green
+135, 106, 104 : Ferra
+234, 204, 74 : Festival
+219, 224, 208 : Feta
+177, 89, 47 : Fiery Orange
+99, 111, 34 : Fiji Green
+117, 120, 90 : Finch
+97, 117, 91 : Finlandia
+105, 69, 84 : Finn
+75, 90, 98 : Fiord
+143, 63, 42 : Fire
+178, 34, 34 : Fire Brick
+224, 152, 66 : Fire Bush
+206, 22, 32 : Fire Engine Red
+49, 70, 67 : Firefly
+190, 92, 72 : Flame Pea
+134, 40, 46 : Flame Red
+234, 134, 69 : Flamenco
+225, 99, 79 : Flamingo
+238, 220, 130 : Flax
+113, 110, 97 : Flint
+122, 46, 77 : Flirt
+255, 250, 240 : Floral White
+208, 234, 232 : Foam
+213, 199, 232 : Fog
+167, 166, 157 : Foggy Grey
+34, 139, 34 : Forest Green
+253, 239, 219 : Forget Me Not
+101, 173, 178 : Fountain Blue
+255, 215, 160 : Frangipani
+2, 157, 116 : Free Speech Aquamarine
+65, 86, 197 : Free Speech Blue
+9, 249, 17 : Free Speech Green
+227, 91, 216 : Free Speech Magenta
+192, 0, 0 : Free Speech Red
+191, 189, 193 : French Grey
+222, 183, 217 : French Lilac
+164, 210, 224 : French Pass
+246, 74, 138 : French Rose
+134, 131, 122 : Friar Grey
+180, 225, 187 : Fringy Flower
+229, 109, 117 : Froly
+225, 228, 197 : Frost
+226, 242, 228 : Frosted Mint
+219, 229, 210 : Frostee
+75, 163, 81 : Fruit Salad
+193, 84, 193 : Fuchsia
+255, 119, 255 : Fuchsia Pink
+194, 214, 46 : Fuego
+209, 144, 51 : Fuel Yellow
+51, 80, 131 : Fun Blue
+21, 99, 61 : Fun Green
+60, 59, 60 : Fuscous Grey
+196, 86, 85 : Fuzzy Wuzzy Brown
+44, 70, 65 : Gable Green
+220, 220, 220 : Gainsboro
+220, 215, 209 : Gallery
+216, 167, 35 : Galliano
+228, 155, 15 : Gamboge
+197, 131, 46 : Geebung
+49, 121, 109 : Genoa
+231, 123, 117 : Geraldine
+203, 208, 207 : Geyser
+192, 191, 199 : Ghost
+248, 248, 255 : Ghost White
+86, 71, 134 : Gigas
+185, 173, 97 : Gimblet
+217, 223, 205 : Gin
+248, 234, 202 : Gin Fizz
+235, 212, 174 : Givry
+120, 177, 191 : Glacier
+95, 129, 81 : Glade Green
+120, 110, 76 : Go Ben
+52, 83, 61 : Goblin
+255, 215, 0 : Gold
+213, 108, 48 : Gold Drop
+226, 178, 39 : Gold Tips
+202, 129, 54 : Golden Bell
+153, 101, 21 : Golden Brown
+241, 204, 43 : Golden Dream
+235, 222, 49 : Golden Fizz
+249, 215, 126 : Golden Glow
+252, 194, 0 : Golden Poppy
+234, 206, 106 : Golden Sand
+255, 193, 82 : Golden Tainoi
+255, 223, 0 : Golden Yellow
+219, 219, 112 : Goldenrod
+55, 51, 50 : Gondola
+41, 51, 43 : Gordons Green
+253, 227, 54 : Gorse
+57, 159, 134 : Gossamer
+159, 211, 133 : Gossip
+105, 136, 144 : Gothic
+81, 85, 155 : Governor Bay
+202, 184, 162 : Grain Brown
+255, 205, 115 : Grandis
+139, 130, 101 : Granite Green
+197, 231, 205 : Granny Apple
+123, 148, 140 : Granny Smith
+157, 224, 147 : Granny Smith Apple
+65, 61, 75 : Grape
+56, 52, 40 : Graphite
+74, 75, 70 : Gravel
+0, 128, 0 : Green
+62, 99, 52 : Green House
+57, 61, 42 : Green Kelp
+82, 107, 45 : Green Leaf
+191, 194, 152 : Green Mist
+38, 98, 66 : Green Pea
+156, 166, 100 : Green Smoke
+169, 175, 153 : Green Spring
+35, 65, 78 : Green Vogue
+44, 45, 36 : Green Waterloo
+222, 221, 203 : Green White
+173, 255, 47 : Green Yellow
+193, 77, 54 : Grenadier
+128, 128, 128 : Grey
+159, 163, 167 : Grey Chateau
+189, 186, 174 : Grey Nickel
+209, 211, 204 : Grey Nurse
+161, 154, 127 : Grey Olive
+147, 145, 160 : Grey Suit
+70, 89, 69 : Grey-Asparagus
+149, 46, 49 : Guardsman Red
+52, 63, 92 : Gulf Blue
+116, 178, 168 : Gulf Stream
+164, 173, 176 : Gull Grey
+172, 201, 178 : Gum Leaf
+113, 143, 138 : Gumbo
+72, 71, 83 : Gun Powder
+44, 53, 57 : Gunmetal
+122, 124, 118 : Gunsmoke
+152, 145, 113 : Gurkha
+158, 128, 34 : Hacienda
+99, 53, 40 : Hairy Heath
+44, 42, 53 : Haiti
+237, 231, 200 : Half And Half
+85, 143, 147 : Half Baked
+242, 229, 191 : Half Colonial White
+251, 240, 214 : Half Dutch White
+241, 234, 215 : Half Pearl Lusta
+230, 219, 199 : Half Spanish White
+232, 212, 162 : Hampton
+82, 24, 250 : Han Purple
+63, 255, 0 : Harlequin
+201, 52, 19 : Harley Davidson Orange
+203, 206, 192 : Harp
+234, 183, 106 : Harvest Gold
+59, 43, 44 : Havana
+87, 132, 193 : Havelock Blue
+153, 82, 43 : Hawaiian Tan
+210, 218, 237 : Hawkes Blue
+79, 42, 44 : Heath
+174, 187, 193 : Heather
+148, 140, 126 : Heathered Grey
+70, 71, 62 : Heavy Metal
+223, 115, 255 : Heliotrope
+105, 104, 75 : Hemlock
+152, 125, 115 : Hemp
+146, 140, 60 : Highball
+122, 148, 97 : Highland
+167, 160, 126 : Hillary
+115, 99, 48 : Himalaya
+223, 241, 214 : Hint Of Green
+245, 239, 235 : Hint Of Red
+246, 245, 215 : Hint Of Yellow
+73, 136, 154 : Hippie Blue
+96, 138, 90 : Hippie Green
+171, 73, 92 : Hippie Pink
+161, 169, 168 : Hit Grey
+253, 164, 112 : Hit Pink
+187, 142, 52 : Hokey Pokey
+100, 125, 134 : Hoki
+37, 52, 43 : Holly
+244, 0, 161 : Hollywood Cerise
+92, 60, 109 : Honey Flower
+240, 255, 240 : Honeydew
+232, 237, 105 : Honeysuckle
+205, 109, 147 : Hopbush
+100, 136, 148 : Horizon
+109, 86, 44 : Horses Neck
+129, 91, 40 : Hot Curry
+255, 0, 204 : Hot Magenta
+255, 105, 180 : Hot Pink
+78, 46, 83 : Hot Purple
+167, 117, 44 : Hot Toddy
+206, 239, 228 : Humming Bird
+53, 94, 59 : Hunter Green
+139, 126, 119 : Hurricane
+178, 153, 75 : Husk
+175, 227, 214 : Ice Cold
+202, 225, 217 : Iceberg
+239, 149, 174 : Illusion
+176, 227, 19 : Inch Worm
+205, 92, 92 : Indian Red
+79, 48, 31 : Indian Tan
+75, 0, 130 : Indigo
+156, 91, 52 : Indochine
+0, 47, 167 : International Klein Blue
+255, 79, 0 : International Orange
+3, 180, 200 : Iris Blue
+98, 66, 43 : Irish Coffee
+203, 205, 205 : Iron
+112, 110, 102 : Ironside Grey
+134, 80, 64 : Ironstone
+0, 153, 0 : Islamic Green
+248, 237, 219 : Island Spice
+255, 255, 240 : Ivory
+61, 50, 93 : Jacarta
+65, 54, 40 : Jacko Bean
+61, 63, 125 : Jacksons Purple
+0, 168, 107 : Jade
+226, 121, 69 : Jaffa
+202, 231, 226 : Jagged Ice
+63, 46, 76 : Jagger
+41, 41, 47 : Jaguar
+103, 72, 52 : Jambalaya
+47, 117, 50 : Japanese Laurel
+206, 114, 89 : Japonica
+37, 151, 151 : Java
+95, 44, 47 : Jazz
+165, 11, 94 : Jazzberry Jam
+68, 121, 142 : Jelly Bean
+187, 208, 201 : Jet Stream
+19, 104, 67 : Jewel
+70, 61, 62 : Jon
+238, 242, 147 : Jonquil
+122, 170, 224 : Jordy Blue
+93, 83, 70 : Judge Grey
+135, 135, 133 : Jumbo
+41, 171, 135 : Jungle Green
+176, 196, 196 : Jungle Mist
+116, 145, 142 : Juniper
+220, 191, 172 : Just Right
+108, 94, 83 : Kabul
+36, 83, 54 : Kaitoke Green
+197, 195, 176 : Kangaroo
+45, 45, 36 : Karaka
+254, 220, 193 : Karry
+87, 109, 142 : Kashmir Blue
+76, 187, 23 : Kelly Green
+77, 80, 60 : Kelp
+108, 50, 46 : Kenyan Copper
+95, 182, 156 : Keppel
+240, 230, 140 : Khaki
+191, 192, 171 : Kidnapper
+58, 53, 50 : Kilamanjaro
+73, 118, 79 : Killarney
+105, 93, 135 : Kimberly
+88, 53, 128 : Kingfisher Daisy
+224, 147, 171 : Kobi
+123, 120, 90 : Kokoda
+128, 78, 44 : Korma
+254, 181, 82 : Koromiko
+249, 208, 84 : Kournikova
+66, 137, 41 : La Palma
+186, 192, 14 : La Rioja
+198, 218, 54 : Las Palmas
+198, 169, 94 : Laser
+255, 255, 102 : Laser Lemon
+110, 141, 113 : Laurel
+230, 230, 250 : Lavender
+204, 204, 255 : Lavender Blue
+255, 240, 245 : Lavender Blush
+189, 187, 215 : Lavender Grey
+251, 174, 210 : Lavender Pink
+251, 160, 227 : Lavender Rose
+124, 252, 0 : Lawn Green
+144, 106, 84 : Leather
+253, 233, 16 : Lemon
+255, 250, 205 : Lemon Chiffon
+150, 132, 40 : Lemon Ginger
+153, 154, 134 : Lemon Grass
+46, 55, 73 : Licorice
+173, 216, 230 : Light Blue
+240, 128, 128 : Light Coral
+224, 255, 255 : Light Cyan
+238, 221, 130 : Light Goldenrod
+250, 250, 210 : Light Goldenrod Yellow
+144, 238, 144 : Light Green
+211, 211, 211 : Light Grey
+255, 182, 193 : Light Pink
+255, 160, 122 : Light Salmon
+32, 178, 170 : Light Sea Green
+135, 206, 250 : Light Sky Blue
+132, 112, 255 : Light Slate Blue
+119, 136, 153 : Light Slate Grey
+176, 196, 222 : Light Steel Blue
+133, 99, 99 : Light Wood
+255, 255, 224 : Light Yellow
+247, 162, 51 : Lightning Yellow
+200, 162, 200 : Lilac
+148, 112, 196 : Lilac Bush
+193, 159, 179 : Lily
+233, 238, 235 : Lily White
+122, 172, 33 : Lima
+0, 255, 0 : Lime
+50, 205, 50 : Lime Green
+95, 151, 39 : Limeade
+137, 172, 39 : Limerick
+250, 240, 230 : Linen
+199, 205, 216 : Link Water
+150, 44, 84 : Lipstick
+83, 75, 79 : Liver
+49, 42, 41 : Livid Brown
+219, 217, 194 : Loafer
+179, 187, 183 : Loblolly
+72, 144, 132 : Lochinvar
+49, 110, 160 : Lochmara
+162, 165, 128 : Locust
+57, 62, 46 : Log Cabin
+157, 156, 180 : Logan
+185, 172, 187 : Lola
+174, 148, 171 : London Hue
+82, 36, 38 : Lonestar
+139, 80, 75 : Lotus
+76, 51, 71 : Loulou
+171, 154, 28 : Lucky
+41, 45, 79 : Lucky Point
+78, 85, 65 : Lunar Green
+120, 46, 44 : Lusty
+171, 141, 63 : Luxor Gold
+105, 125, 137 : Lynch
+203, 232, 232 : Mabel
+255, 185, 123 : Macaroni And Cheese
+183, 227, 168 : Madang
+45, 60, 84 : Madison
+71, 62, 35 : Madras
+255, 0, 255 : Magenta
+170, 240, 209 : Magic Mint
+248, 244, 255 : Magnolia
+202, 52, 53 : Mahogany
+165, 101, 49 : Mai Tai
+42, 41, 34 : Maire
+227, 185, 130 : Maize
+105, 95, 80 : Makara
+80, 85, 85 : Mako
+11, 218, 81 : Malachite
+151, 151, 111 : Malachite Green
+102, 183, 225 : Malibu
+58, 69, 49 : Mallard
+165, 151, 132 : Malta
+118, 109, 124 : Mamba
+141, 144, 161 : Manatee
+181, 123, 46 : Mandalay
+142, 35, 35 : Mandarian Orange
+205, 82, 91 : Mandy
+245, 183, 153 : Mandys Pink
+231, 114, 0 : Mango Tango
+226, 175, 128 : Manhattan
+127, 193, 92 : Mantis
+150, 167, 147 : Mantle
+228, 219, 85 : Manz
+53, 34, 53 : Mardi Gras
+184, 138, 61 : Marigold
+66, 99, 159 : Mariner
+128, 0, 0 : Maroon
+43, 46, 38 : Marshland
+183, 168, 163 : Martini
+60, 55, 72 : Martinique
+235, 200, 129 : Marzipan
+87, 83, 75 : Masala
+54, 92, 125 : Matisse
+142, 77, 69 : Matrix
+82, 75, 75 : Matterhorn
+224, 176, 255 : Mauve
+145, 95, 109 : Mauve Taupe
+240, 145, 169 : Mauvelous
+200, 177, 192 : Maverick
+115, 194, 251 : Maya Blue
+140, 99, 56 : McKenzie
+102, 205, 170 : Medium Aquamarine
+0, 0, 205 : Medium Blue
+175, 64, 53 : Medium Carmine
+234, 234, 174 : Medium Goldenrod
+186, 85, 211 : Medium Orchid
+147, 112, 219 : Medium Purple
+60, 179, 113 : Medium Sea Green
+123, 104, 238 : Medium Slate Blue
+0, 250, 154 : Medium Spring Green
+72, 209, 204 : Medium Turquoise
+199, 21, 133 : Medium Violet Red
+166, 128, 100 : Medium Wood
+224, 183, 194 : Melanie
+52, 41, 49 : Melanzane
+254, 186, 173 : Melon
+195, 185, 221 : Melrose
+213, 210, 209 : Mercury
+225, 219, 208 : Merino
+79, 78, 72 : Merlin
+115, 52, 58 : Merlot
+85, 74, 60 : Metallic Bronze
+110, 61, 52 : Metallic Copper
+212, 175, 55 : Metallic Gold
+187, 116, 49 : Meteor
+74, 59, 106 : Meteorite
+155, 61, 61 : Mexican Red
+102, 106, 109 : Mid Grey
+33, 48, 62 : Midnight
+25, 25, 112 : Midnight Blue
+33, 38, 58 : Midnight Express
+36, 46, 40 : Midnight Moss
+63, 54, 35 : Mikado
+246, 244, 147 : Milan
+158, 51, 50 : Milano Red
+243, 229, 192 : Milk Punch
+220, 217, 205 : Milk White
+89, 86, 72 : Millbrook
+245, 245, 204 : Mimosa
+218, 234, 111 : Mindaro
+55, 62, 65 : Mine Shaft
+80, 99, 85 : Mineral Green
+64, 117, 119 : Ming
+62, 50, 103 : Minsk
+245, 255, 250 : Mint Cream
+152, 255, 152 : Mint Green
+224, 216, 167 : Mint Julep
+198, 234, 221 : Mint Tulip
+55, 63, 67 : Mirage
+165, 169, 178 : Mischka
+186, 185, 169 : Mist Grey
+255, 228, 225 : Misty Rose
+96, 90, 103 : Mobster
+88, 47, 43 : Moccaccino
+255, 228, 181 : Moccasin
+111, 55, 45 : Mocha
+151, 70, 60 : Mojo
+255, 152, 137 : Mona Lisa
+107, 37, 44 : Monarch
+85, 77, 66 : Mondo
+165, 139, 111 : Mongoose
+122, 118, 121 : Monsoon
+57, 59, 60 : Montana
+122, 197, 180 : Monte Carlo
+131, 120, 199 : Moody Blue
+245, 243, 206 : Moon Glow
+206, 205, 184 : Moon Mist
+192, 178, 215 : Moon Raker
+240, 196, 32 : Moon Yellow
+158, 209, 211 : Morning Glory
+68, 45, 33 : Morocco Brown
+86, 80, 81 : Mortar
+0, 95, 91 : Mosque
+173, 223, 173 : Moss Green
+26, 179, 133 : Mountain Meadow
+160, 159, 156 : Mountain Mist
+153, 122, 141 : Mountbatten Pink
+169, 132, 79 : Muddy Waters
+158, 126, 83 : Muesli
+197, 75, 140 : Mulberry
+136, 79, 64 : Mule Fawn
+82, 77, 91 : Mulled Wine
+255, 219, 88 : Mustard
+214, 139, 128 : My Pink
+253, 174, 69 : My Sin
+33, 66, 30 : Myrtle
+216, 221, 218 : Mystic
+78, 93, 78 : Nandor
+163, 154, 135 : Napa
+233, 230, 220 : Narvik
+255, 222, 173 : Navajo White
+0, 0, 128 : Navy
+0, 102, 204 : Navy Blue
+184, 198, 190 : Nebula
+238, 199, 162 : Negroni
+77, 77, 255 : Neon Blue
+255, 153, 51 : Neon Carrot
+255, 110, 199 : Neon Pink
+147, 170, 185 : Nepal
+119, 168, 171 : Neptune
+37, 37, 37 : Nero
+170, 165, 131 : Neutral Green
+102, 111, 111 : Nevada
+109, 59, 36 : New Amber
+0, 0, 156 : New Midnight Blue
+228, 195, 133 : New Orleans
+235, 199, 158 : New Tan
+221, 131, 116 : New York Pink
+41, 169, 139 : Niagara
+51, 46, 46 : Night Rider
+162, 61, 84 : Night Shadz
+37, 63, 78 : Nile Blue
+169, 157, 157 : Nobel
+161, 153, 134 : Nomad
+29, 57, 60 : Nordic
+164, 184, 143 : Norway
+188, 146, 41 : Nugget
+126, 74, 59 : Nutmeg
+252, 237, 197 : Oasis
+0, 143, 112 : Observatory
+76, 169, 115 : Ocean Green
+204, 119, 34 : Ochre
+223, 240, 226 : Off Green
+250, 243, 220 : Off Yellow
+49, 51, 48 : Oil
+138, 51, 53 : Old Brick
+115, 80, 59 : Old Copper
+207, 181, 59 : Old Gold
+253, 245, 230 : Old Lace
+121, 104, 120 : Old Lavender
+192, 46, 76 : Old Rose
+128, 128, 0 : Olive
+107, 142, 35 : Olive Drab
+181, 179, 92 : Olive Green
+136, 128, 100 : Olive Haze
+116, 112, 40 : Olivetone
+154, 185, 115 : Olivine
+194, 230, 236 : Onahau
+72, 65, 43 : Onion
+168, 195, 188 : Opal
+152, 126, 126 : Opium
+57, 85, 85 : Oracle
+255, 165, 0 : Orange
+255, 160, 0 : Orange Peel
+255, 69, 0 : Orange Red
+168, 83, 53 : Orange Roughy
+234, 227, 205 : Orange White
+218, 112, 214 : Orchid
+241, 235, 217 : Orchid White
+37, 91, 119 : Orient
+194, 142, 136 : Oriental Pink
+210, 211, 179 : Orinoco
+129, 137, 136 : Oslo Grey
+211, 219, 203 : Ottoman
+45, 56, 58 : Outer Space
+255, 96, 55 : Outrageous Orange
+40, 53, 58 : Oxford Blue
+109, 154, 120 : Oxley
+209, 234, 234 : Oyster Bay
+212, 181, 176 : Oyster Pink
+134, 75, 54 : Paarl
+122, 113, 92 : Pablo
+0, 157, 196 : Pacific Blue
+79, 64, 55 : Paco
+126, 179, 148 : Padua
+104, 40, 96 : Palatinate Purple
+152, 118, 84 : Pale Brown
+221, 173, 175 : Pale Chestnut
+171, 205, 239 : Pale Cornflower Blue
+238, 232, 170 : Pale Goldenrod
+152, 251, 152 : Pale Green
+189, 202, 168 : Pale Leaf
+249, 132, 229 : Pale Magenta
+156, 141, 114 : Pale Oyster
+250, 218, 221 : Pale Pink
+249, 245, 159 : Pale Prim
+239, 214, 218 : Pale Rose
+99, 109, 112 : Pale Sky
+195, 190, 187 : Pale Slate
+188, 152, 126 : Pale Taupe
+175, 238, 238 : Pale Turquoise
+219, 112, 147 : Pale Violet Red
+32, 57, 44 : Palm Green
+54, 72, 47 : Palm Leaf
+234, 228, 220 : Pampas
+235, 247, 228 : Panache
+223, 185, 146 : Pancho
+84, 79, 58 : Panda
+255, 239, 213 : Papaya Whip
+124, 45, 55 : Paprika
+72, 128, 132 : Paradiso
+208, 200, 176 : Parchment
+251, 235, 80 : Paris Daisy
+49, 39, 96 : Paris M
+191, 205, 192 : Paris White
+48, 93, 53 : Parsley
+119, 221, 119 : Pastel Green
+99, 146, 131 : Patina
+211, 229, 239 : Pattens Blue
+42, 37, 81 : Paua
+186, 171, 135 : Pavlova
+64, 64, 72 : Payne's Grey
+255, 203, 164 : Peach
+255, 218, 185 : Peach Puff
+255, 204, 153 : Peach-Orange
+250, 223, 173 : Peach-Yellow
+122, 68, 52 : Peanut
+209, 226, 49 : Pear
+222, 209, 198 : Pearl Bush
+234, 224, 200 : Pearl Lusta
+118, 109, 82 : Peat
+37, 153, 178 : Pelorous
+215, 231, 208 : Peppermint
+172, 185, 232 : Perano
+194, 169, 219 : Perfume
+172, 182, 178 : Periglacial Blue
+195, 205, 230 : Periwinkle
+28, 57, 187 : Persian Blue
+0, 166, 147 : Persian Green
+50, 18, 122 : Persian Indigo
+247, 127, 190 : Persian Pink
+104, 51, 50 : Persian Plum
+204, 51, 51 : Persian Red
+254, 40, 162 : Persian Rose
+236, 88, 0 : Persimmon
+205, 133, 63 : Peru
+115, 61, 31 : Peru Tan
+122, 114, 41 : Pesto
+218, 151, 144 : Petite Orchid
+145, 160, 146 : Pewter
+130, 102, 99 : Pharlap
+248, 234, 151 : Picasso
+91, 160, 208 : Picton Blue
+253, 215, 228 : Pig Pink
+0, 165, 80 : Pigment Green
+117, 101, 86 : Pine Cone
+189, 192, 126 : Pine Glade
+1, 121, 111 : Pine Green
+42, 47, 35 : Pine Tree
+255, 192, 203 : Pink
+255, 102, 255 : Pink Flamingo
+216, 180, 182 : Pink Flare
+246, 204, 215 : Pink Lace
+243, 215, 182 : Pink Lady
+191, 179, 178 : Pink Swan
+157, 84, 50 : Piper
+245, 230, 196 : Pipi
+252, 219, 210 : Pippin
+186, 120, 42 : Pirate Gold
+187, 205, 165 : Pixie Green
+229, 127, 61 : Pizazz
+191, 141, 60 : Pizza
+62, 89, 76 : Plantation
+221, 160, 221 : Plum
+101, 28, 38 : Pohutukawa
+229, 242, 231 : Polar
+138, 167, 204 : Polo Blue
+106, 31, 68 : Pompadour
+221, 220, 219 : Porcelain
+223, 157, 91 : Porsche
+59, 67, 108 : Port Gore
+244, 240, 155 : Portafino
+139, 152, 216 : Portage
+240, 213, 85 : Portica
+239, 220, 212 : Pot Pourri
+132, 92, 64 : Potters Clay
+176, 224, 230 : Powder Blue
+136, 60, 50 : Prairie Sand
+202, 180, 212 : Prelude
+226, 205, 213 : Prim
+228, 222, 142 : Primrose
+248, 246, 223 : Promenade
+246, 227, 218 : Provincial Pink
+0, 51, 102 : Prussian Blue
+221, 0, 255 : Psychedelic Purple
+204, 136, 153 : Puce
+110, 51, 38 : Pueblo
+89, 186, 163 : Puerto Rico
+186, 192, 180 : Pumice
+255, 117, 24 : Pumpkin
+83, 73, 49 : Punga
+128, 0, 128 : Purple
+101, 45, 193 : Purple Heart
+150, 120, 182 : Purple Mountain's Majesty
+80, 64, 77 : Purple Taupe
+205, 174, 112 : Putty
+242, 237, 221 : Quarter Pearl Lusta
+235, 226, 210 : Quarter Spanish White
+217, 217, 243 : Quartz
+195, 152, 139 : Quicksand
+203, 201, 192 : Quill Grey
+106, 84, 69 : Quincy
+35, 47, 44 : Racing Green
+255, 53, 94 : Radical Red
+220, 198, 160 : Raffia
+102, 112, 40 : Rain Forest
+179, 193, 177 : Rainee
+252, 174, 96 : Rajah
+43, 46, 37 : Rangoon Green
+111, 116, 123 : Raven
+210, 125, 70 : Raw Sienna
+115, 74, 18 : Raw Umber
+255, 51, 204 : Razzle Dazzle Rose
+227, 11, 92 : Razzmatazz
+69, 52, 48 : Rebel
+255, 0, 0 : Red
+112, 31, 40 : Red Berry
+203, 111, 74 : Red Damask
+102, 42, 44 : Red Devil
+255, 63, 52 : Red Orange
+93, 31, 30 : Red Oxide
+125, 65, 56 : Red Robin
+173, 82, 46 : Red Stage
+187, 51, 133 : Medium Red Violet
+91, 52, 46 : Redwood
+209, 239, 159 : Reef
+169, 141, 54 : Reef Gold
+32, 63, 88 : Regal Blue
+121, 132, 136 : Regent Grey
+160, 205, 217 : Regent St Blue
+246, 222, 218 : Remy
+178, 110, 51 : Reno Sand
+50, 63, 117 : Resolution Blue
+55, 54, 63 : Revolver
+61, 70, 83 : Rhino
+239, 236, 222 : Rice Cake
+239, 245, 209 : Rice Flower
+89, 89, 171 : Rich Blue
+161, 82, 38 : Rich Gold
+183, 198, 26 : Rio Grande
+137, 217, 200 : Riptide
+85, 96, 97 : River Bed
+221, 173, 86 : Rob Roy
+0, 204, 204 : Robin's Egg Blue
+90, 77, 65 : Rock
+147, 162, 186 : Rock Blue
+157, 68, 45 : Rock Spray
+199, 163, 132 : Rodeo Dust
+109, 120, 118 : Rolling Stone
+216, 98, 91 : Roman
+125, 103, 87 : Roman Coffee
+244, 240, 230 : Romance
+255, 198, 158 : Romantic
+234, 184, 82 : Ronchi
+161, 71, 67 : Roof Terracotta
+142, 89, 60 : Rope
+211, 161, 148 : Rose
+254, 171, 154 : Rose Bud
+138, 45, 82 : Rose Bud Cherry
+172, 81, 45 : Rose Of Sharon
+144, 93, 93 : Rose Taupe
+251, 238, 232 : Rose White
+188, 143, 143 : Rosy Brown
+182, 150, 66 : Roti
+169, 64, 100 : Rouge
+65, 105, 225 : Royal Blue
+181, 75, 115 : Royal Heath
+107, 63, 160 : Royal Purple
+224, 17, 95 : Ruby
+113, 102, 117 : Rum
+241, 237, 212 : Rum Swizzle
+128, 70, 27 : Russet
+125, 101, 92 : Russett
+183, 65, 14 : Rust
+58, 24, 26 : Rustic Red
+141, 95, 44 : Rusty Nail
+93, 78, 70 : Saddle
+139, 69, 19 : Saddle Brown
+255, 102, 0 : Safety Orange
+244, 196, 48 : Saffron
+152, 159, 122 : Sage
+183, 152, 38 : Sahara
+165, 206, 236 : Sail
+23, 123, 77 : Salem
+250, 128, 114 : Salmon
+255, 214, 123 : Salomie
+105, 98, 104 : Salt Box
+238, 243, 229 : Saltpan
+59, 46, 37 : Sambuca
+44, 110, 49 : San Felix
+68, 87, 97 : San Juan
+78, 108, 157 : San Marino
+134, 118, 101 : Sand Dune
+163, 135, 106 : Sandal
+175, 147, 125 : Sandrift
+120, 109, 95 : Sandstone
+222, 203, 129 : Sandwisp
+254, 219, 183 : Sandy Beach
+244, 164, 96 : Sandy Brown
+146, 0, 10 : Sangria
+108, 55, 54 : Sanguine Brown
+153, 152, 167 : Santas Grey
+169, 106, 80 : Sante Fe
+225, 213, 166 : Sapling
+8, 37, 103 : Sapphire
+85, 91, 44 : Saratoga
+244, 234, 228 : Sauvignon
+245, 222, 196 : Sazerac
+111, 99, 160 : Scampi
+173, 217, 209 : Scandal
+255, 36, 0 : Scarlet
+74, 45, 87 : Scarlet Gum
+126, 37, 48 : Scarlett
+107, 106, 108 : Scarpa Flow
+135, 135, 111 : Schist
+255, 216, 0 : School Bus Yellow
+141, 132, 120 : Schooner
+48, 142, 160 : Scooter
+106, 100, 102 : Scorpion
+238, 231, 200 : Scotch Mist
+102, 255, 102 : Screamin' Green
+61, 64, 49 : Scrub
+239, 149, 72 : Sea Buckthorn
+223, 221, 214 : Sea Fog
+46, 139, 87 : Sea Green
+194, 213, 196 : Sea Mist
+138, 174, 164 : Sea Nymph
+219, 129, 126 : Sea Pink
+119, 183, 208 : Seagull
+50, 20, 20 : Seal Brown
+105, 50, 110 : Seance
+255, 245, 238 : Seashell
+55, 65, 42 : Seaweed
+230, 223, 231 : Selago
+255, 186, 0 : Selective Yellow
+107, 66, 38 : Semi-Sweet Chocolate
+158, 91, 64 : Sepia
+252, 233, 215 : Serenade
+131, 112, 80 : Shadow
+154, 192, 182 : Shadow Green
+159, 155, 157 : Shady Lady
+96, 154, 184 : Shakespeare
+248, 246, 168 : Shalimar
+51, 204, 153 : Shamrock
+0, 158, 96 : Shamrock Green
+52, 54, 58 : Shark
+0, 73, 78 : Sherpa Blue
+27, 70, 54 : Sherwood Green
+230, 178, 166 : Shilo
+116, 89, 55 : Shingle Fawn
+121, 136, 171 : Ship Cove
+78, 78, 76 : Ship Grey
+132, 40, 51 : Shiraz
+232, 153, 190 : Shocking
+252, 15, 192 : Shocking Pink
+97, 102, 107 : Shuttle Grey
+104, 107, 80 : Siam
+233, 217, 169 : Sidecar
+160, 82, 45 : Sienna
+187, 173, 161 : Silk
+192, 192, 192 : Silver
+172, 174, 169 : Silver Chalice
+190, 189, 182 : Silver Sand
+103, 190, 144 : Silver Tree
+166, 213, 208 : Sinbad
+105, 41, 59 : Siren
+104, 118, 110 : Sirocco
+197, 186, 160 : Sisal
+157, 180, 170 : Skeptic
+135, 206, 235 : Sky Blue
+106, 90, 205 : Slate Blue
+112, 128, 144 : Slate Grey
+66, 52, 43 : Slugger
+0, 51, 153 : Smalt
+73, 98, 103 : Smalt Blue
+187, 95, 52 : Smoke Tree
+96, 93, 107 : Smoky
+255, 250, 250 : Snow
+227, 227, 220 : Snow Drift
+234, 247, 201 : Snow Flurry
+214, 240, 205 : Snowy Mint
+228, 215, 229 : Snuff
+236, 229, 218 : Soapstone
+207, 190, 165 : Soft Amber
+238, 223, 222 : Soft Peach
+133, 73, 76 : Solid Pink
+234, 218, 194 : Solitaire
+233, 236, 241 : Solitude
+221, 107, 56 : Sorbus
+157, 127, 97 : Sorrell Brown
+201, 181, 154 : Sour Dough
+111, 99, 75 : Soya Bean
+75, 67, 59 : Space Shuttle
+123, 137, 118 : Spanish Green
+222, 209, 183 : Spanish White
+55, 93, 79 : Spectra
+108, 79, 63 : Spice
+139, 95, 77 : Spicy Mix
+255, 28, 174 : Spicy Pink
+179, 196, 216 : Spindle
+241, 215, 158 : Splash
+126, 205, 221 : Spray
+167, 252, 0 : Spring Bud
+0, 255, 127 : Spring Green
+163, 189, 156 : Spring Rain
+241, 241, 198 : Spring Sun
+233, 225, 217 : Spring Wood
+184, 202, 157 : Sprout
+162, 161, 172 : Spun Pearl
+143, 125, 107 : Squirrel
+50, 84, 130 : St Tropaz
+133, 136, 133 : Stack
+160, 161, 151 : Star Dust
+210, 198, 182 : Stark White
+227, 221, 57 : Starship
+70, 130, 180 : Steel Blue
+67, 70, 75 : Steel Grey
+131, 61, 62 : Stiletto
+128, 118, 97 : Stonewall
+101, 100, 95 : Storm Dust
+116, 120, 128 : Storm Grey
+218, 190, 130 : Straw
+148, 106, 129 : Strikemaster
+64, 99, 86 : Stromboli
+114, 74, 161 : Studio
+140, 156, 156 : Submarine
+238, 239, 223 : Sugar Cane
+198, 234, 128 : Sulu
+143, 182, 156 : Summer Green
+56, 176, 222 : Summer Sky
+239, 142, 56 : Sun
+196, 170, 77 : Sundance
+248, 175, 169 : Sundown
+218, 192, 26 : Sunflower
+199, 97, 85 : Sunglo
+255, 204, 51 : Sunglow
+192, 81, 74 : Sunset
+254, 76, 64 : Sunset Orange
+250, 157, 73 : Sunshade
+255, 180, 55 : Supernova
+184, 212, 187 : Surf
+195, 214, 189 : Surf Crest
+0, 123, 119 : Surfie Green
+124, 159, 47 : Sushi
+139, 134, 133 : Suva Grey
+37, 47, 47 : Swamp
+218, 230, 221 : Swans Down
+249, 225, 118 : Sweet Corn
+238, 145, 141 : Sweet Pink
+215, 206, 197 : Swirl
+219, 208, 202 : Swiss Coffee
+246, 174, 120 : Tacao
+210, 185, 96 : Tacha
+220, 114, 42 : Tahiti Gold
+216, 204, 155 : Tahuna Sands
+133, 53, 52 : Tall Poppy
+163, 153, 119 : Tallow
+117, 43, 47 : Tamarillo
+210, 180, 140 : Tan
+184, 181, 161 : Tana
+30, 47, 60 : Tangaroa
+242, 133, 0 : Tangerine
+255, 204, 0 : Tangerine Yellow
+212, 111, 49 : Tango
+124, 124, 114 : Tapa
+179, 112, 132 : Tapestry
+222, 241, 221 : Tara
+37, 60, 72 : Tarawera
+186, 192, 179 : Tasman
+72, 60, 50 : Taupe
+139, 133, 137 : Taupe Grey
+100, 58, 72 : Tawny Port
+73, 101, 105 : Tax Break
+43, 75, 64 : Te Papa Green
+191, 181, 162 : Tea
+208, 240, 192 : Tea Green
+248, 131, 194 : Tea Rose
+171, 137, 83 : Teak
+0, 128, 128 : Teal
+37, 72, 85 : Teal Blue
+60, 33, 38 : Temptress
+205, 87, 0 : Tenne (Tawny)
+244, 208, 164 : Tequila
+226, 114, 91 : Terra Cotta
+236, 230, 126 : Texas
+252, 176, 87 : Texas Rose
+177, 148, 143 : Thatch
+84, 78, 49 : Thatch Green
+216, 191, 216 : Thistle
+77, 77, 75 : Thunder
+146, 56, 48 : Thunderbird
+151, 66, 45 : Tia Maria
+185, 195, 190 : Tiara
+24, 67, 67 : Tiber
+252, 128, 165 : Tickle Me Pink
+240, 245, 144 : Tidal
+190, 180, 171 : Tide
+50, 67, 54 : Timber Green
+217, 214, 207 : Timberwolf
+221, 214, 225 : Titan White
+159, 113, 95 : Toast
+109, 88, 67 : Tobacco Brown
+68, 54, 45 : Tobago
+62, 38, 49 : Toledo
+45, 37, 65 : Tolopea
+79, 99, 72 : Tom Thumb
+255, 99, 71 : Tomato
+231, 158, 136 : Tonys Pink
+129, 124, 135 : Topaz
+253, 14, 53 : Torch Red
+53, 61, 117 : Torea Bay
+55, 78, 136 : Tory Blue
+116, 64, 66 : Tosca
+156, 172, 165 : Tower Grey
+109, 175, 167 : Tradewind
+221, 237, 233 : Tranquil
+226, 221, 199 : Travertine
+226, 129, 59 : Tree Poppy
+126, 132, 36 : Trendy Green
+128, 93, 128 : Trendy Pink
+197, 79, 51 : Trinidad
+174, 201, 235 : Tropical Blue
+0, 117, 94 : Tropical Rain Forest
+76, 83, 86 : Trout
+142, 114, 199 : True V
+69, 70, 66 : Tuatara
+249, 211, 190 : Tuft Bush
+227, 172, 61 : Tulip Tree
+222, 166, 129 : Tumbleweed
+70, 73, 78 : Tuna
+88, 84, 82 : Tundora
+245, 204, 35 : Turbo
+165, 110, 117 : Turkish Rose
+174, 144, 65 : Turmeric
+64, 224, 208 : Turquoise
+108, 218, 231 : Turquoise Blue
+54, 62, 29 : Turtle Green
+173, 98, 66 : Tuscany
+227, 229, 177 : Tusk
+191, 145, 75 : Tussock
+248, 228, 227 : Tutu
+218, 192, 205 : Twilight
+244, 246, 236 : Twilight Blue
+193, 145, 86 : Twine
+102, 2, 60 : Tyrian Purple
+255, 111, 255 : Ultra Pink
+18, 10, 143 : Ultramarine
+212, 87, 78 : Valencia
+56, 44, 56 : Valentino
+42, 43, 65 : Valhalla
+82, 57, 54 : Van Cleef
+204, 182, 155 : Vanilla
+235, 210, 209 : Vanilla Ice
+253, 239, 211 : Varden
+200, 8, 21 : Venetian Red
+44, 87, 120 : Venice Blue
+139, 125, 130 : Venus
+98, 96, 62 : Verdigris
+72, 83, 26 : Verdun Green
+255, 77, 0 : Vermilion
+92, 64, 51 : Very Dark Brown
+205, 205, 205 : Very Light Grey
+168, 85, 51 : Vesuvius
+86, 73, 133 : Victoria
+95, 146, 40 : Vida Loca
+77, 177, 200 : Viking
+149, 82, 100 : Vin Rouge
+197, 143, 157 : Viola
+46, 34, 73 : Violent Violet
+238, 130, 238 : Violet
+159, 95, 159 : Violet Blue
+247, 70, 138 : Violet Red
+64, 130, 109 : Viridian
+75, 95, 86 : Viridian Green
+249, 228, 150 : Vis Vis
+151, 213, 179 : Vista Blue
+227, 223, 217 : Vista White
+255, 153, 128 : Vivid Tangerine
+128, 55, 144 : Vivid Violet
+78, 39, 40 : Volcano
+68, 50, 64 : Voodoo
+54, 56, 60 : Vulcan
+212, 187, 177 : Wafer
+91, 110, 145 : Waikawa Grey
+76, 78, 49 : Waiouru
+228, 226, 220 : Wan White
+132, 145, 55 : Wasabi
+182, 236, 222 : Water Leaf
+0, 110, 78 : Watercourse
+214, 202, 61 : Wattle
+242, 205, 187 : Watusi
+238, 179, 158 : Wax Flower
+253, 215, 216 : We Peep
+76, 107, 136 : Wedgewood
+142, 53, 55 : Well Read
+92, 81, 47 : West Coast
+229, 130, 58 : West Side
+212, 207, 197 : Westar
+241, 145, 154 : Wewak
+245, 222, 179 : Wheat
+223, 215, 189 : Wheatfield
+210, 144, 98 : Whiskey
+212, 145, 93 : Whiskey Sour
+239, 230, 230 : Whisper
+255, 255, 255 : White
+215, 238, 228 : White Ice
+231, 229, 232 : White Lilac
+238, 231, 220 : White Linen
+248, 246, 216 : White Nectar
+218, 214, 204 : White Pointer
+212, 207, 180 : White Rock
+245, 245, 245 : White Smoke
+122, 137, 184 : Wild Blue Yonder
+227, 212, 116 : Wild Rice
+231, 228, 222 : Wild Sand
+255, 51, 153 : Wild Strawberry
+253, 91, 120 : Wild Watermelon
+190, 202, 96 : Wild Willow
+83, 115, 111 : William
+223, 230, 207 : Willow Brook
+105, 117, 92 : Willow Grove
+70, 44, 119 : Windsor
+82, 44, 53 : Wine Berry
+208, 195, 131 : Winter Hazel
+249, 232, 226 : Wisp Pink
+201, 160, 220 : Wisteria
+162, 158, 205 : Wistful
+251, 240, 115 : Witch Haze
+48, 38, 33 : Wood Bark
+70, 54, 41 : Woodburn
+98, 103, 70 : Woodland
+69, 64, 43 : Woodrush
+43, 50, 48 : Woodsmoke
+85, 69, 69 : Woody Brown
+117, 135, 110 : Xanadu
+255, 255, 0 : Yellow
+154, 205, 50 : Yellow Green
+115, 99, 62 : Yellow Metal
+255, 174, 66 : Yellow Orange
+244, 159, 53 : Yellow Sea
+255, 197, 187 : Your Pink
+130, 106, 33 : Yukon Gold
+199, 184, 130 : Yuma
+107, 90, 90 : Zambezi
+178, 198, 177 : Zanah
+198, 114, 59 : Zest
+59, 60, 56 : Zeus
+129, 166, 170 : Ziggurat
+235, 194, 175 : Zinnwaldite
+222, 227, 227 : Zircon
+221, 194, 131 : Zombie
+162, 149, 137 : Zorba
+23, 70, 46 : Zuccini
+205, 213, 213 : Zumthor
